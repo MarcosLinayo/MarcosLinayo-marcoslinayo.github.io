@@ -1,60 +1,63 @@
+# Hi, I'm Marcos 🏄‍♂️
 
-# Hi, I'm Marcos 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-linayo-a2a1a644/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcoslinayo9@gmail.com)
 
-I’m a **hybrid QA & Marketing professional** with a **Bachelor’s degree in Marketing (E‑commerce focus)** and hands-on experience working closely with digital products, users, and teams.
+I’m a **QA & Marketing professional** with a **Bachelor’s degree in Marketing (E‑commerce focus)** and hands-on experience testing, analyzing, and improving digital products.
 
-My background combines **manual QA testing, product understanding, marketing strategy, and customer experience**, allowing me to approach software and digital products from both a **technical and user-centered perspective**.
+I specialize in **manual QA testing, test case design, bug tracking, and ensuring product quality**, while leveraging my marketing and user experience background to approach products from both a **technical and user-centered perspective**.
 
 ---
 
-## 🧩 What I do
+## 🧩 What I Do
 
-* Manual QA Testing (functional, regression, smoke testing)
-* Test case design, bug reporting, and traceability matrices
-* Collaboration with product, development, and business teams
-* User experience and customer-oriented thinking
-* Marketing & product support with an e-commerce mindset
+- ✅ Manual QA Testing (functional, regression, smoke testing)  
+- ✅ Test case design, bug reporting, and traceability matrices  
+- ✅ Collaborating with product, development, and business teams  
+- ✅ Applying user experience and customer-focused thinking to product quality  
+- ✅ Supporting marketing and product initiatives with an e-commerce mindset  
 
 ---
 
 ## 🛠️ Tools & Skills
 
-* Testing methodologies (Manual QA)
-* Jira
-* Postman
-* SQL
-* JMeter (basic)
-* Cross-browser testing
-* Agile / Scrum
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
+[![Agile](https://img.shields.io/badge/Agile-F05138?style=flat)](https://www.atlassian.com/agile)
+
+- Manual QA methodologies  
+- Cross-browser testing  
+- Agile / Scrum frameworks  
 
 ---
 
 ## 🌍 Interests & Values
 
-I’m especially motivated by projects related to:
+I’m especially motivated by projects related to:  
 
-* Outdoor, surf & adventure brands
-* Nature, sustainability & social impact
-* Tech startups building meaningful products
+- 🌊 Outdoor, surf & adventure brands  
+- 🌱 Nature, sustainability & social impact  
+- 🚀 Tech startups building meaningful products  
 
-I enjoy working in international environments, staying close to nature, traveling, and music. These interests strongly influence the type of projects and teams I want to be part of.
+I enjoy working in international environments, traveling, staying close to nature, and music. These interests strongly influence the type of projects and teams I aim to join.
 
 ---
 
 ## 📌 Currently
 
-* Open to remote or international opportunities
-* Roles aligned with **QA, product quality, marketing support, or hybrid profiles**
-* Teams that value impact, usability, and continuous improvement
+- Open to **remote or international opportunities**  
+- Seeking roles in **QA, product quality, marketing support, or hybrid profiles**  
+- Looking for teams that value **impact, usability, and continuous improvement**  
 
 ---
 
-## 🤝 Let’s connect
+## 🤝 Let’s Connect
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/marcos-linayo-a2a1a644/](https://www.linkedin.com/in/marcos-linayo-a2a1a644/)
-* 📫 Email: [marcoslinayo9@gmail.com](mailto:marcoslinayo9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-linayo-a2a1a644/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcoslinayo9@gmail.com)
 
 ---
 
-Thanks for stopping by — feel free to explore my repositories or reach out.
-
+**Thanks for stopping by — feel free to explore my repositories or reach out!**
